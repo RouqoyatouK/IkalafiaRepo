@@ -1,0 +1,53 @@
+#myform{
+    display: flex;
+  }
+  #myform input[type=text]{
+    padding: 5px 15px;
+    border-top: 1px solid #bbb;
+    border-left: 1px solid #bbb;
+    border-bottom: 1px solid #bbb;
+    border-right: none;
+  }
+  input{
+    height: 30px;
+    display: inline;
+  }
+  label
+{
+	display: block;
+	width: 380px;
+	float: left;
+    
+}
+#i{
+    position: absolute;
+   top: 110px;
+   right: 0px;
+   margin-right: 20px;
+   border-radius: 5px;
+   width: 500px;
+   opacity: 0.2;
+}
+#i1{
+    position: absolute;
+   top: 500px;
+   right: 0px;
+   margin-right: 20px;
+   border-radius: 5px;
+   width: 500px;
+   opacity: 0.2;
+
+}
+#i2{
+    position: absolute;
+   top: 810px;
+   right: 0px;
+   margin-right: 20px;
+   border-radius: 5px color blue;
+   width: 500px;
+   opacity: 0.1;
+
+}
+form{
+    background-color: color;
+}

@@ -1,0 +1,58 @@
+
+
+/*MON CSS*/
+
+.test{
+   
+    height: 400px;
+    width: 700px;
+    border-radius: 20px;
+    border: 1px solid black;
+    color: #f0d803c4 ;
+    background-color: rgb(36, 14, 14);
+    
+}
+
+.left{
+    position: absolute;
+    margin-right: 40px;
+    
+    /*background-color:blue;*/
+
+}
+
+.right{
+    position: absolute;
+margin-left: 30%;
+}
+
+p{
+    text-align: left;
+    margin-top: 100px;
+    margin-left: 100px;
+  
+}
+
+h1,h2{
+    margin-top: 60px;
+    text-align: right;
+}
+h1{
+    font-size: 20px;
+   margin-top: 250px;
+}
+h2{
+    font-size: 15px;
+    margin-top: 25px;
+}
+span{
+ margin-right: 45px;
+}
+
+img{
+    position: absolute;
+    top: 110px;
+    right: 0px;
+  margin-right: 650px;
+    
+}
